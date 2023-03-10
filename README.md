@@ -11,7 +11,7 @@
 
 Infos supp: 
 
-93x plus rapide en débit que le protocole http,  
+93x plus rapide en débit que le protocole HTTP,  
 12x moins gourmand à l’envoi que l’HTTP,  
 170x moins gourmand à la réception que l’HTTP,  
 consomme 8x moins de réseau que l’HTTP  
