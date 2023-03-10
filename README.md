@@ -41,3 +41,6 @@ QOS
 Niveau 0 : message envoyer au plus une fois  
 Niveau 1 : message envoyer au moins une fois  
 Niveau 2 : message sauvegarder jusqu’à la réception par le subscriber.  
+
+![image](https://user-images.githubusercontent.com/123626866/224341324-0b0a97fe-bb16-4947-96cc-82a7584def6c.png)
+
