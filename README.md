@@ -20,3 +20,26 @@ consomme 8x moins de réseau que l’HTTP
 
 un message , taille max 256mo,  
 les topics sont construits de manière hiérarchique comme une URL
+
+pourquoi mqtt  
+
+-protocole ouvert, simple, léger et faile à mettre en œuvre  
+-Idéal pour la transmission de données avec une faible bande passante  
+-Adapté au sans fil  
+-Faible consommation elec  
+-très rapide  
+-fible en ressource processeur et faible emprunte mémoire  
+
+
+  
+La sécurité :  
+Niveau transport TLS/SSL  
+Niveau authentification par cértificats SSL/TLS  
+Authentification par user/mdp  
+
+
+QOS  
+
+Niveau 0 : message envoyer au plus une fois  
+Niveau 1 : message envoyer au moins une fois  
+Niveau 2 : message sauvegarder jusqu’à la réception par le subscriber.  
