@@ -5,6 +5,7 @@
 
 * Recherche des besoins 
     * Système
+    * données à enregistrer
     * fonctionnalités
 * Structure de la base de données
     * nombre de table
