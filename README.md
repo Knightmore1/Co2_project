@@ -18,5 +18,5 @@ consomme 8x moins de réseau que l’HTTP
 
 
 
-un message , taille max 256mo,
+un message , taille max 256mo,  
 les topics sont construits de manière hiérarchique comme une URL
