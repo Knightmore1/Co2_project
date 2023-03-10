@@ -18,5 +18,5 @@ Selon les autorités de santé, si une salle de classe dépasse un taux de dioxy
 1. [Broker](https://github.com/Knightmore1/Co2_project/blob/MQTT/README.md)
 <br>Le broker est un élément essentiel de l'architecture du projet. Il permet la mise en tampon des données fournies par les différents capteurs des salles du 
 3. Base de données
-4. ESP32
+4. [ESP32](https://github.com/Knightmore1/Co2_project/blob/Mesure-CO2/affichage/README.md)
 5. IHM
