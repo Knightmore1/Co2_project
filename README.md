@@ -146,8 +146,7 @@ Enregistrez le fichier de mot de passe et redémarrez votre broker MQTT pour pre
 
 Une fois que vous avez créé des noms d'utilisateur et des mots de passe pour votre broker MQTT, vous pouvez vous connecter à votre broker en utilisant ces informations d'identification. Par exemple, si vous utilisez le client MQTT Mosquitto, vous pouvez vous connecter en utilisant la commande suivante : 
 
-mosquitto_sub -h <nom_de_domaine_ou_adresse_IP_du_broker> -t <topic>
- -u <nom_d_utilisateur> -P <mot_de_passe>
+mosquitto_sub -h <nom_de_domaine_ou_adresse_IP_du_broker> -t <topic> -u <nom_d_utilisateur> -P <mot_de_passe>
 
 avec -u pour le nom d’utilisateur et -P pour le mot de passe.
 
