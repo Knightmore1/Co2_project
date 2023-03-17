@@ -49,7 +49,7 @@ Niveau 2 : message sauvegarder jusqu’à la réception par le subscriber.
 
 
 
-Configurer le broker MQTT mosquitto
+Configurer le broker MQTT avec mosquitto
 
 1. Installer le broker MQTT
 
