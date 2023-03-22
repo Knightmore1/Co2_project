@@ -1,5 +1,7 @@
-Définition:
+# Définition:
 
 Le (ou la) Wi-Fi, aussi orthographié wifi1, est un ensemble de protocoles de communication sans fil régis par les normes du groupe IEEE 802.11 (ISO/CEI 8802-11). Un réseau Wi-Fi permet de relier par ondes radio plusieurs appareils informatiques (ordinateur, routeur, smartphone, modem Internet, etc.) au sein d'un réseau informatique afin de permettre la transmission de données entre eux.
+
+# Installation: 
 
 Pour que la communication entre le broker MQTT et l'esp 32 Saola il faut télécharger le ficher en entier [Wifi_v2](https://github.com/Knightmore1/Co2_project/tree/WiFi/Wifi_v2) sur ses docuements et l'ouvrir avec visual Studio Code
