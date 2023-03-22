@@ -45,6 +45,9 @@ Pour s'y connecter, il faut utiliser la commande :
 
 cette commande permet d'accéder au serveur avec comme utilisateur root.
 
+A partir de ce moment là, on peut créer et gérer des bases de données.
+Pour connaitre la syntaxe des commandes SQL, consulter ce site https://sql.sh/
+
 
 
 
