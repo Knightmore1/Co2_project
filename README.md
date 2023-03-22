@@ -36,8 +36,8 @@ __Installation d'un serveur de base de données sur la raspberry:__
 2. Pour installer le serveur de base de données, il faut taper la commande suivante:
 ![image](https://user-images.githubusercontent.com/123626866/226943594-1840b5a5-0089-41ad-9214-a9f623197c5d.png)
 
-La commande permet d'installer le serveur de base de données nommé mariaDB.
-SERVEUR INSTALLE!!!
+La commande permet d'installer le serveur de base de données nommé mariaDB.  
+SERVEUR INSTALLE!!!  
 
 Pour s'y connecter, il faut utiliser la commande :
 
