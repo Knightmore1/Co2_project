@@ -6,20 +6,15 @@
 * Recherche des besoins 
     * Système
     * données à enregistrer
-      * Salles : numéro, batiment, étage
-      * Mesures: Date, heure, CO2, temp, hum 
+   
 * fonctionnalités
 * Structure de la base de données
     * nombre de table 
-      * 2    
     * structure des tables
     * Liaisons
-      * liaison 1-<n : plusieurs mesures pour une salle  
 * Choix installation Base de données
-    * où
-      * Raspberry pi                 
+    * où             
     * Comment y accéder
-      * login/mot de passe 
 * Effectuer les test nécessaires
     * Tests de connexion
     * Remplissage automatique  
