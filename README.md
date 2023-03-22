@@ -29,4 +29,31 @@ Schéma relationnel de la base de données du projet:
 
 
 
-__Installation d'un serveur de base de données:__
+__Installation d'un serveur de base de données sur la raspberry:__
+
+1. Avoir une raspberry connéctée à internet 
+
+2. Pour installer le serveur de base de données, il faut taper la commande suivante:
+![image](https://user-images.githubusercontent.com/123626866/226943594-1840b5a5-0089-41ad-9214-a9f623197c5d.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
