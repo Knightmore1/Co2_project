@@ -25,6 +25,7 @@
         
 Schéma relationnel de la base de données du projet:  
 
+![image](https://user-images.githubusercontent.com/123626866/227238277-06540518-b3d8-4149-90a8-343847ba7fb5.png)
 
 
 
