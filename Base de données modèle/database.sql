@@ -41,9 +41,7 @@ CREATE TABLE IF NOT EXISTS `Base_Projet`.`Mesure` (
   `Date` DATE NOT NULL,
   `Salles_id` INT NOT NULL,
   PRIMARY KEY (`id`, `Salles_id`),
-  INDEX `fk_Mesure_Salles_idx` (`Salles_id` ASC) VISIBLE,
-  CONSTRAINT `fk_Mesure_Salles`
-    FOREIGN KEY (`Salles_id`)
+  INDEX `fk_Mesure_Salles_idx` (`Salles_id` ASC) VISIBLE, CONSTRAINT `fk_Mesure_Salles` FOREIGN KEY (`Salles_id`)
     REFERENCES `Base_Projet`.`Salles` (`id`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION)
