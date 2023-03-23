@@ -6,7 +6,7 @@ Le (ou la) Wi-Fi, aussi orthographié wifi1, est un ensemble de protocoles de co
 --------------------------------------------------------------------------------------
 ## __Prérequis de l'installation:__
 * __Avoir installer Visual Studio Code__
-* __Avoir télécharger les [extentions](https://github.com/Knightmore1/Co2_project/wiki/Extention) C++: "C/C++", "C/C++ Entension Pack", "C/C++ Theme"__
+* __Avoir télécharger les [extentions](https://github.com/Knightmore1/Co2_project/wiki/Extention) C++: "C/C++", "C/C++ Entension Pack", "C/C++ Theme", "C/C++ Runner.__
 * __Avoir télécharger l'extention "PlatformIo"__
 --------------------------------------------------------------------------------------
 ### Pour que la communication entre le broker MQTT et l'esp 32 Saola se fasse il faut:
