@@ -4,13 +4,12 @@ Le (ou la) Wi-Fi, aussi orthographié wifi1, est un ensemble de protocoles de co
 
 # Installation: 
 
-###### Pour que la communication entre le broker MQTT et l'esp 32 Saola:
-1. télécharger l'extention "PlatformIO" sur visual studio Code.
+### Pour que la communication entre le broker MQTT et l'esp 32 Saola se fasse il faut:
+1. Télécharger l'extention "PlatformIO" sur visual studio Code.  
 
 
-2. télécharger le fichier en entier [Wifi_v2](https://github.com/Knightmore1/Co2_project/tree/WiFi/Wifi_v2) sur vos docuements.
-![exemle1](https://user-images.githubusercontent.com/123626872/227144513-354c106e-7f62-4f82-b094-bb3e900e0597.PNG)
+2. Télécharger le fichier en entier [Wifi_v2](https://github.com/Knightmore1/Co2_project/tree/WiFi/Wifi_v2) sur vos docuements.  
+![exemle1](https://user-images.githubusercontent.com/123626872/227144513-354c106e-7f62-4f82-b094-bb3e900e0597.PNG)  
 
-3. Ouvrir avec visual Studio Code et ouvrir le dossier Wifi_v2.
-![exemple2](https://user-images.githubusercontent.com/123626872/227149227-5e127a41-a947-4fb9-97ef-be3adb7d5b4f.png)
-
+3. Ouvrir avec visual Studio Code et ouvrir le dossier Wifi_v2.  
+![exemple2](https://user-images.githubusercontent.com/123626872/227149227-5e127a41-a947-4fb9-97ef-be3adb7d5b4f.png)  
