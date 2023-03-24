@@ -22,7 +22,11 @@ __2. Ouvrir avec visual Studio Code et ouvrir le dossier Wifi_v2.__
 __3. Sélectionner "src" et selectionner le fichier "main.cpp", une fois le fichier ouvert il faut remplir l'adresse IP de la raspberry sur la ligne 7.__  
 ![Exemple3](https://user-images.githubusercontent.com/123626872/227161662-25c5f4be-b521-4076-878c-72db647508b0.PNG)  
 
-__4. Mettre le programme dans l'ESP32 Saola.__  
+__4. Mettre le programme dans l'ESP32 Saola:__  
   __4.1 Sélectionner ![Exemple4](https://user-images.githubusercontent.com/123626872/227180263-cd8b45f5-ed71-45cf-91c0-3e2124e82e99.PNG) dans la barre d'état. Si il n'y a pas d'erreur à la compilation du programme, vous pouvez passer à la prochaine étapes.__  
   __4.2 Sélectionner ![Exemple5](https://user-images.githubusercontent.com/123626872/227181478-e3b0f74e-22eb-443e-b00c-eab24a14f7b4.PNG) dans la barre d'état.__  
   
+__5. Parametrage de Putty:__  
+  __5.1 Lancer Putty et selectionner "Sérial".__  
+![Exemple6](https://user-images.githubusercontent.com/123626872/227471090-1b18cee1-3d9b-483a-b990-247266e38502.PNG)  
+  __5.2 Chercher sur quel port COM, votre ESP32 est située. Pour trouver cette information, il faut aller
