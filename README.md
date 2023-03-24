@@ -19,5 +19,5 @@ __1. [Broker](https://github.com/Knightmore1/Co2_project/blob/MQTT/README.md)__
 <br>Le broker est un élément essentiel de l'architecture du projet. Il permet la mise en tampon des données fournies par les différents capteurs des salles  
 __2. [Base de données](https://github.com/Knightmore1/Co2_project/blob/Broker/Acc%C3%A8s-BDD/README.md)__
 <br>La base de données permet de stocker les différentes mesures des différents capteurs, ainsi ces dernières seront récuperées pour en faire de la visualisatio de courbes.  
-__3. [ESP32](https://github.com/Knightmore1/Co2_project/blob/Mesure-CO2/affichage/README.md)__
+__3. [ESP32](https://github.com/Knightmore1/Co2_project/blob/Mesure-CO2/affichage/README.md)__  
 __4. [IHM](https://github.com/Knightmore1/Co2_project/blob/Supervision/Visu-Courbes/Import-EdT/README.md)__
