@@ -29,4 +29,4 @@ __4. Mettre le programme dans l'ESP32 Saola:__
 __5. Parametrage de Putty:__  
   __5.1 Lancer Putty et selectionner "Sérial".__  
 ![Exemple6](https://user-images.githubusercontent.com/123626872/227471090-1b18cee1-3d9b-483a-b990-247266e38502.PNG)  
-  __5.2 Chercher sur quel port COM, votre ESP32 est située. Pour trouver cette information, il faut aller
+  __5.2 Chercher sur quel port COM, votre ESP32 est située. Pour trouver cette information (sur windows), il faut chercher dans le gestionnaire des periphériques.__  
