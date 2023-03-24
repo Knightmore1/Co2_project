@@ -1,7 +1,7 @@
 # Co2_project
 
 
-# Présentation du projet
+## Présentation du projet
 
 
 > L’inhalation d’aérosols contenant des virus SARS-CoV-2 est un des trois modes de transmission de la COVID-19. Elle se produit essentiellement dans les espaces clos. Les aérosols – des gouttelettes de diamètre inférieur à 0,01 mm – peuvent rester suspendus dans l’air pendant plusieurs heures. 
@@ -13,7 +13,7 @@ Plusieurs moyens sont particulièrement efficaces pour limiter l’inhalation d�
 ![image](https://user-images.githubusercontent.com/123626866/224345326-52176d4f-dcee-4446-b97a-508caec78b3c.png)
 
 
-__Mise en place du système:__
+## Mise en place du système:
 
 __1. [Broker](https://github.com/Knightmore1/Co2_project/blob/MQTT/README.md)__
 <br>Le broker est un élément essentiel de l'architecture du projet. Il permet la mise en tampon des données fournies par les différents capteurs des salles  
