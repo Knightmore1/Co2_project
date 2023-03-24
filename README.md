@@ -13,7 +13,7 @@ Plusieurs moyens sont particulièrement efficaces pour limiter l’inhalation d�
 ![image](https://user-images.githubusercontent.com/123626866/224345326-52176d4f-dcee-4446-b97a-508caec78b3c.png)
 
 
-
+__Mise en place du système:__
 
 1. [Broker](https://github.com/Knightmore1/Co2_project/blob/MQTT/README.md)
 <br>Le broker est un élément essentiel de l'architecture du projet. Il permet la mise en tampon des données fournies par les différents capteurs des salles du 
