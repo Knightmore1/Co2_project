@@ -32,4 +32,4 @@ __5. Parametrage de Putty:__
   __5.2 Chercher sur quel port COM, votre ESP32 est située. Pour trouver cette information (sur windows), il faut chercher dans le gestionnaire des periphériques. Une fois trouvé, il faut le rentré dans Putty, dans la case "Sérial line"__  
 ![Exemple7](https://user-images.githubusercontent.com/123626872/227482026-9fde7fd9-ad37-455f-80ec-074421725475.PNG)  
   __5.3 Changer la vitesse à "115200" comme dans le programme. Si la vitesse n'est pas modifié, il y aura une erreur.__  
-  
+  __5.4 Remplir la case "Saved Sessions" en donnant un nom pour la configuration qui viens d'être effectuée. Puis selectionner la case "Save" pour sauvegrader les configurations. Ce qui vous permettra d'éviter de refaire les configurations a chaque fois que vous souhaitez lancer l'ESP32.__
