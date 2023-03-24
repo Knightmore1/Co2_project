@@ -30,6 +30,6 @@ __5. Parametrage de Putty:__
   __5.1 Lancer Putty et selectionner "Sérial".__  
 ![Exemple6](https://user-images.githubusercontent.com/123626872/227471090-1b18cee1-3d9b-483a-b990-247266e38502.PNG)  
   __5.2 Chercher sur quel port COM, votre ESP32 est située. Pour trouver cette information (sur windows), il faut chercher dans le gestionnaire des periphériques. Une fois trouvé, il faut le rentré dans Putty, dans la case "Sérial line"__  
-![Exemple7](https://user-images.githubusercontent.com/123626872/227482026-9fde7fd9-ad37-455f-80ec-074421725475.PNG)
+![Exemple7](https://user-images.githubusercontent.com/123626872/227482026-9fde7fd9-ad37-455f-80ec-074421725475.PNG)  
   __5.3 Changer la vitesse à "115200" comme dans le programme. Si la vitesse n'est pas modifié, il y aura une erreur.__  
   
