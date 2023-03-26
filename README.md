@@ -44,7 +44,7 @@ Pour s'y connecter, il faut utiliser la commande :
 
 ![image](https://user-images.githubusercontent.com/123626866/226945101-da09fa9b-feea-4578-8153-7069b8830ccf.png)
 
-cette commande permet d'accéder au serveur avec comme utilisateur root.
+cette commande permet d'accéder au serveur avec comme utilisateur root. (Utilisateur par défaut du serveur)
 
 A partir de ce moment là, on peut créer et gérer des bases de données.
 Pour connaitre la syntaxe des commandes SQL, consulter ce site https://sql.sh/
