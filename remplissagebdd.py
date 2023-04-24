@@ -12,7 +12,7 @@ mqtt_username = "root"
 mqtt_password = "root"
 
 # Configuration de la connexion MySQL
-mysql_host = "127.0.0.1"
+mysql_host = "172.20.233.66"
 mysql_user = "phpmyadmin"
 mysql_password = "admin"
 mysql_database = "co2"
