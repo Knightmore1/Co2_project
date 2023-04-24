@@ -13,14 +13,14 @@ consomme 8x moins de réseau que l’HTTP
 un message , taille max 256mo,  
 les topics sont construits de manière hiérarchique comme une URL
 
-pourquoi mqtt  
+## Pourquoi mqtt ?
 
--protocole ouvert, simple, léger et faile à mettre en œuvre  
--Idéal pour la transmission de données avec une faible bande passante  
--Adapté au sans fil  
--Faible consommation elec  
--très rapide  
--fible en ressource processeur et faible emprunte mémoire  
+__-Protocole ouvert, simple, léger et faile à mettre en œuvre.__  
+__-Idéal pour la transmission de données avec une faible bande passante.__  
+__-Adapté au sans fil.__  
+__-Faible consommation électrique.__  
+__-très rapide.__  
+__-faible en ressource processeur et faible emprunte mémoire.__  
 
 
   
