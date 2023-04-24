@@ -8,7 +8,7 @@ BTS Project
    - Mise en place de la Raspberry pi
    - Mise en place du capteur
  
-2. Je récupère la température, l'humidité et le taux de CO2
+2. Récupération de la température, l'humidité et le taux de CO2
    - Mise en place de la Raspberry pi
    - Je crée un programme qui récupère les données du capteur sur la Raspberry pi
  
@@ -16,6 +16,6 @@ BTS Project
    - Mise en place de la Raspberry pi
    - Je crée un programme qui affiche les mesures sur l’écran LED
  
-4. Puis je m'occupe de l'horodatage
+4. Puis mise en place de l'horodatage
    - Mise en place de la Raspberry pi
-   - Je crée un fichier contenant les mesures ainsi que l'horodatage qui sera envoyé a la base de données
+   - Création du fichier contenant les mesures ainsi que l'horodatage qui sera envoyé a la base de données
