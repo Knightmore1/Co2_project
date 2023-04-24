@@ -24,13 +24,13 @@ __-faible en ressource processeur et faible emprunte mémoire.__
 
 
   
-La sécurité :  
+## La sécurité :  
 Niveau transport TLS/SSL  
 Niveau authentification par cértificats SSL/TLS  
 Authentification par user/mdp  
 
 
-QOS  
+## QOS:  
 
 Niveau 0 : message envoyer au plus une fois  
 Niveau 1 : message envoyer au moins une fois  
