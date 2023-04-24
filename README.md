@@ -1,7 +1,7 @@
 # CO2_Projects
 BTS Project
 
-## Cette partie est dédiée à l'acquisition l’affichage et l'horodatage que je vais découper en plusieurs parties:
+## Cette partie est dédiée à l'acquisition l’affichage et l'horodatage qui va découper en plusieurs parties:
  
 1. Mise en place du matériel dans les salles
    - Mise en place de la Raspberry pi
