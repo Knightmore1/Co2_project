@@ -27,7 +27,9 @@
    Pour cette partie du projet, une machine virtuelle avec un système d'exploitation Linux Ubuntu sera utilisée pour installer le serveur de base de données. 
    
    ![Sans titre](https://user-images.githubusercontent.com/123626866/234322043-f0fc206f-6fea-405d-9fda-93adf5adbe78.png)
-   ![image](https://user-images.githubusercontent.com/123626866/234318315-93b9b2d4-cf08-408d-b889-2fb613a6cef8.png)
+   ![image](https://user-images.githubusercontent.com/123626866/234318315-93b9b2d4-cf08-408d-b889-2fb613a6cef8.png)  
+     
+       
    
 
    
