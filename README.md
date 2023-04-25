@@ -11,7 +11,7 @@
     * nombre de table 
     * structure des tables
     
-* Choix installation Base de données
+* Gestion de la base de données
     * Comment y accéder
 
 * Effectuer les test nécessaires
@@ -24,7 +24,7 @@
 
 1) Recherche des besoins  
 
-   Pour cette partie du projet, une machine virtuelle avec un système d'exploitation Linux Ubuntu sera utilisée pour installer le serveur de base de données. 
+   Pour cette partie du projet, une machine virtuelle avec un système d'exploitation Linux Ubuntu sera nécessaire pour installer le serveur de base de données. 
    
    ![Sans titre](https://user-images.githubusercontent.com/123626866/234322043-f0fc206f-6fea-405d-9fda-93adf5adbe78.png)
    ![image](https://user-images.githubusercontent.com/123626866/234318315-93b9b2d4-cf08-408d-b889-2fb613a6cef8.png)  
@@ -50,6 +50,10 @@
 Pour résumer, voici le schéma relationnel de cette base de données: 
 
 ![image](https://user-images.githubusercontent.com/123626866/227238277-06540518-b3d8-4149-90a8-343847ba7fb5.png)
+
+
+
+3) Gestion de la base de données
 
 
 
