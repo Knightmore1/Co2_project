@@ -25,7 +25,7 @@
 1) Recherche des besoins  
 
    Pour cette partie du projet, une machine virtuelle avec un système d'exploitation Linux Ubuntu. 
-   ![image](https://user-images.githubusercontent.com/123626866/234318883-546185b4-316d-44c9-aa7c-8b5761562cd5.png)
+   ![image](https://user-images.githubusercontent.com/123626866/234318883-546185b4-316d-44c9-aa7c-8b5761562cd5.png) 
    ![image](https://user-images.githubusercontent.com/123626866/234318315-93b9b2d4-cf08-408d-b889-2fb613a6cef8.png)
 
 
