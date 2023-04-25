@@ -10,10 +10,10 @@
 * Structure de la base de données
     * nombre de table 
     * structure des tables
-    * Liaisons
+    
 * Choix installation Base de données
-    * où             
     * Comment y accéder
+
 * Effectuer les test nécessaires
     * Tests de connexion
     * Remplissage automatique  
@@ -44,10 +44,10 @@
 2) Structure de la base de données  
    
    Pour la base de données, elle sera diviser en trois tables, une première qui contiendra les informations des différentes mesures éfectuées, une deuxième avec des données concernant les salles (Localisation dans l'etablissement, leur capacité). Enfin, une troisième table avec des information concernant les ESP32 (Numéro d'identification, version, et la salle où ils sont). 
+   
+   &nbsp;
     
-      
-        
-Schéma relationnel de la base de données du projet:  
+Pour résumer, voici le schéma relationnel de cette base de données: 
 
 ![image](https://user-images.githubusercontent.com/123626866/227238277-06540518-b3d8-4149-90a8-343847ba7fb5.png)
 
