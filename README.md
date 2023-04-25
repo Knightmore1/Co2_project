@@ -50,7 +50,9 @@
 Pour résumer, voici le schéma relationnel de cette base de données: 
 
 ![image](https://user-images.githubusercontent.com/123626866/227238277-06540518-b3d8-4149-90a8-343847ba7fb5.png)
-
+   &nbsp;
+   &nbsp;
+   &nbsp;
 
 
 3) Gestion de la base de données
