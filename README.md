@@ -29,15 +29,15 @@
    ![Sans titre](https://user-images.githubusercontent.com/123626866/234322043-f0fc206f-6fea-405d-9fda-93adf5adbe78.png)
    ![image](https://user-images.githubusercontent.com/123626866/234318315-93b9b2d4-cf08-408d-b889-2fb613a6cef8.png)  
      
-       
-   
-
-   
+   &nbsp;    
+      
    Sur cette dernière, un serveur de base de données de type Mariadb sera installé, avec une base de données dédiée au projet.
    
   ![Sans titre](https://user-images.githubusercontent.com/123626866/234320768-200cfddf-a5b6-47e6-a616-c3edf21ec3b9.jpg)  
  
-
+   &nbsp;
+   &nbsp;
+   &nbsp;
 
 
   
