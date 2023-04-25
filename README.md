@@ -6,8 +6,7 @@
 * Recherche des besoins 
     * Système
     * données à enregistrer
-   
-* fonctionnalités
+
 * Structure de la base de données
     * nombre de table 
     * structure des tables
@@ -18,6 +17,26 @@
 * Effectuer les test nécessaires
     * Tests de connexion
     * Remplissage automatique  
+
+
+
+
+
+1) Recherche des besoins  
+
+   Pour cette partie du projet, une machine virtuelle avec un système d'exploitation Linux Ubuntu. 
+   ![image](https://user-images.githubusercontent.com/123626866/234318437-be7ec40d-c27e-481b-9548-56188cfef211.png)
+   ![image](https://user-images.githubusercontent.com/123626866/234318315-93b9b2d4-cf08-408d-b889-2fb613a6cef8.png)
+
+
+   
+   Sur cette dernière, un serveur de base de données de type Mariadb sera installé, avec une base de données dédiée au projet.
+   ![image](https://user-images.githubusercontent.com/123626866/234317767-a88e9d17-dde5-4bd9-b9ba-8aa3fd643587.png)
+   
+   
+2) Structure de la base de données  
+     
+     
 
   
     
