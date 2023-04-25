@@ -36,9 +36,10 @@
    Sur cette dernière, un serveur de base de données de type Mariadb sera installé, avec une base de données dédiée au projet.
    
   ![Sans titre](https://user-images.githubusercontent.com/123626866/234320768-200cfddf-a5b6-47e6-a616-c3edf21ec3b9.jpg)  
-
-   
-   
+  
+    
+      
+      
 2) Structure de la base de données  
      
      
