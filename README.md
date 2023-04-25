@@ -35,7 +35,7 @@ __Installation d'un serveur de base de données sur une machine virtuelle Linux:
 1. Avoir un ordinateur connéctée à internet avec une machine virtuelle installée 
 
 2. Pour installer le serveur de base de données, il faut taper la commande suivante:
-![image](https://user-images.githubusercontent.com/123626866/226943594-1840b5a5-0089-41ad-9214-a9f623197c5d.png)
+![image](https://user-images.githubusercontent.com/123626866/234315252-6dbf193c-ca4a-4b12-8cc7-70fb505b902a.png)
 
 La commande permet d'installer le serveur de base de données nommé mariaDB.  
 SERVEUR INSTALLE!!!  
