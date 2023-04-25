@@ -42,16 +42,8 @@
 
   
 2) Structure de la base de données  
-     
-     
-
-  
-  &nbsp;
-   &nbsp;
-   &nbsp;
-  &nbsp;
-   &nbsp;
-   &nbsp;
+   
+   Pour la base de données, elle sera diviser en trois tables, une première qui contiendra les informations des différentes mesures éfectuées, une deuxième avec des données concernant les salles (Localisation dans l'etablissement, leur capacité). Enfin, une troisième table avec des information concernant les ESP32 (Numéro d'identification, version, et la salle où ils sont). 
     
       
         
