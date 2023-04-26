@@ -4,18 +4,18 @@ Le broker se base sur le protocole [MQTT](https://github.com/Knightmore1/Co2_pro
 
 ## Pourquoi mqtt ?
 
-__-Protocole ouvert, simple, léger et faile à mettre en œuvre.__  
-__-Idéal pour la transmission de données avec une faible bande passante.__  
-__-Adapté au sans fil.__  
-__-Faible consommation électrique.__  
-__-Très rapide.__  
-__-Faible en ressource processeur et faible emprunte mémoire.__  
-__-93x plus rapide en débit que le protocole HTTP.__  
-__-12x moins gourmand à l’envoi que l’HTTP.__  
-__-170x moins gourmand à la réception que l’HTTP.__  
-__-Consomme 8x moins de réseau que l’HTTP.__  
-__-Un message peut faire une taille maximum de 256mo.__  
-__-Les topics sont construits de manière hiérarchique comme une URL.__  
+-Protocole ouvert, simple, léger et faile à mettre en œuvre.  
+-Idéal pour la transmission de données avec une faible bande passante.  
+-Adapté au sans fil.  
+-Faible consommation électrique.  
+-Très rapide.  
+-Faible en ressource processeur et faible emprunte mémoire.  
+-93x plus rapide en débit que le protocole HTTP.  
+-12x moins gourmand à l’envoi que l’HTTP.  
+-170x moins gourmand à la réception que l’HTTP.  
+-Consomme 8x moins de réseau que l’HTTP.  
+-Un message peut faire une taille maximum de 256mo.  
+-Les topics sont construits de manière hiérarchique comme une URL.  
 
 
   
