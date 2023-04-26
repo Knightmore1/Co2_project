@@ -1,10 +1,10 @@
 # Co2_project
-1-Besoins du client:
+### 1-Besoins du client:  
   Supervision des données 
   Visualition des données en courbes 
   Import des Emploi du temps, salle de cours et heure de cours
   
-2-Fonctionnalités:
+### 2-Fonctionnalités:
   
 
 
@@ -12,7 +12,7 @@
 
 
 
-3-Maquette IHM:
+### 3-Maquette IHM:
 
 
 ![image](https://user-images.githubusercontent.com/123626891/224353463-ee26173e-cb6e-4eae-9f1b-0f576f545a75.png)
@@ -22,15 +22,14 @@
 
 Code mainwindow.cpp:
 
-#include "mainwindow1.h"
-#include "ui_mainwindow1.h"
-#include <QDebug>
-#include <QSqlTableModel>
+`#include "mainwindow1.h"`  
+`#include "ui_mainwindow1.h"`  
+`#include <QDebug>`  
+`#include <QSqlTableModel>`  
 
-MainWindow::MainWindow(QWidget *parent)
-    : QMainWindow(parent)
-    , ui(new Ui::MainWindow)
-{
+`MainWindow::MainWindow(QWidget *parent) : QMainWindow(parent), ui(new Ui::MainWindow)`  
+{  
+<pre>
     ui->setupUi(this);
     // Configuration du tableau
     ui->tableView->setFixedSize(600, 450);
@@ -44,6 +43,7 @@ MainWindow::MainWindow(QWidget *parent)
     if (initDatabase()) qDebug()<<"Connection ok";
     else qDebug()<<"connection nok";
     loadTableBase();
+</pre>
 }
 
 MainWindow::~MainWindow()
