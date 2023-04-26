@@ -175,4 +175,21 @@ Pour faire une barre de séparation il vous suffit d'écrire plusieurs `-` d'aff
 `-----------------`
 
 ----------------
+####Faire une tabulation
+
+Pour faire une tabulation sur GitHub en markdown, vous pouvez utiliser la balise <pre> pour afficher le texte avec une police à espacement fixe, puis utiliser des espaces pour aligner le texte. Voici un exemple :
+
+<pre>
+    Texte aligné à droite
+             Texte centré
+      Texte aligné à gauche
+</pre>
+
+
+Cela affichera le texte aligné comme suit :
+
+
+    Texte aligné à droite
+             Texte centré
+      Texte aligné à gauche
 
