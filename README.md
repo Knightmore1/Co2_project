@@ -29,7 +29,7 @@ BTS Project
 * __Avoir télécharger l'[extention](https://github.com/Knightmore1/Co2_project/wiki/Extention) "PlatformIo" et le parametré.__
 * __Avoir télécharger le logiciel Putty.__
 
-### Pour que la communication entre le broker MQTT et l'esp 32 Saola se fasse il faut:
+### Pour que la communication entre le broker MQTT et l'ESP 32 Saola se fasse il faut:
 
 __1. Télécharger le dossier [ThreadAlertV2](https://github.com/Knightmore1/Co2_project/tree/Mesure-CO2/affichage/ThreadAlertV2)__  
 
