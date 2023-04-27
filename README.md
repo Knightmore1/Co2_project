@@ -40,6 +40,7 @@ __3. Sélectionner "src" et selectionner le fichier "main.cpp", une fois le fich
 ![Exemple3](https://user-images.githubusercontent.com/123626872/227161662-25c5f4be-b521-4076-878c-72db647508b0.PNG)  
 
 __4. Mettre le programme dans l'ESP32 Saola:__  
-  __4.1 Sélectionner ![Exemple4](https://user-images.githubusercontent.com/123626872/227180263-cd8b45f5-ed71-45cf-91c0-3e2124e82e99.PNG) dans la barre d'état. Si il n'y a pas d'erreur à la compilation du programme, vous pouvez passer à la prochaine étapes.__  
-  __4.2 Sélectionner ![Exemple5](https://user-images.githubusercontent.com/123626872/227181478-e3b0f74e-22eb-443e-b00c-eab24a14f7b4.PNG) dans la barre d'état.__  
-  __Si vous ne souhaitez pas utiliser le terminal fournis directement avec visual Studio vous pouvez vous connecter en série avec le logiciel "[Putty](https://github.com/Knightmore1/Co2_project/wiki/Putty)"__
+  __4.1 Sélectionner ![Exemple4](https://user-images.githubusercontent.com/123626872/227180263-cd8b45f5-ed71-45cf-91c0-3e2124e82e99.PNG) dans la barre d'état pour build le programme. Si il n'y a pas d'erreur à la compilation du programme, vous pouvez passer à la prochaine étapes.__  
+  __4.2 Sélectionner ![Exemple5](https://user-images.githubusercontent.com/123626872/227181478-e3b0f74e-22eb-443e-b00c-eab24a14f7b4.PNG) dans la barre d'état pour mettre le code compiler dans la carte ESP32.__  
+ __4.3 Sélectionner![exemple8](https://user-images.githubusercontent.com/123626872/234795098-a2dc5ee5-2152-4587-88e3-4ef397174368.PNG) dans la barre d'état pour éxecuter le programme et afficher le terminal de visual studio.__
+   __Si vous ne souhaitez pas utiliser le terminal fournis directement avec visual Studio vous pouvez vous connecter en série avec le logiciel "[Putty](https://github.com/Knightmore1/Co2_project/wiki/Putty)"__  
