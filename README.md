@@ -35,7 +35,7 @@ __1. Télécharger le dossier [ThreadAlertV2](https://github.com/Knightmore1/Co2
 ![image](https://user-images.githubusercontent.com/123626872/234809282-34dcf852-a63d-4f11-81c8-6511b5d00247.png)  
 
 __2. Pour ouvrir le dossier [ThreadAlertV2](https://github.com/Knightmore1/Co2_project/tree/Mesure-CO2/affichage/ThreadAlertV2)__  
- __2.1 Ouvrir le fichier `.zip` dans l'explorateur de fichier et le décompresser là où vous souhaitez dans votre explorateur de fichier__  
+ __2.1 Ouvrir le fichier `ThreadAlertV2.zip` dans l'explorateur de fichier et le décompresser là où vous souhaitez dans votre explorateur de fichier__  
  __2.2 Ouvrir avec platformIO (dans visual studio code) le dossier [ThreadAlertV2](https://github.com/Knightmore1/Co2_project/tree/Mesure-CO2/affichage/ThreadAlertV2) comme projet.__  
 ![platformIOIcon](https://user-images.githubusercontent.com/48868173/234328431-71eb40f1-6621-4fce-a47e-b68e263c38d7.png)  
 
