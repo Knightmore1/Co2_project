@@ -13,11 +13,3 @@ __3. Sélectionner "src" et selectionner le fichier "main.cpp", une fois le fich
 __4. Mettre le programme dans l'ESP32 Saola:__  
   __4.1 Sélectionner ![Exemple4](https://user-images.githubusercontent.com/123626872/227180263-cd8b45f5-ed71-45cf-91c0-3e2124e82e99.PNG) dans la barre d'état. Si il n'y a pas d'erreur à la compilation du programme, vous pouvez passer à la prochaine étapes.__  
   __4.2 Sélectionner ![Exemple5](https://user-images.githubusercontent.com/123626872/227181478-e3b0f74e-22eb-443e-b00c-eab24a14f7b4.PNG) dans la barre d'état.__  
-  __Si vous ne souhaitez pas utiliser le terminal fournis directement avec visual Studio vous pouvez vous connecter en série avec le logiciel "Putty"__  
-__5. Parametrage de Putty:__  
-  __5.1 Lancer Putty et selectionner "Sérial".__  
-![Exemple6](https://user-images.githubusercontent.com/123626872/227471090-1b18cee1-3d9b-483a-b990-247266e38502.PNG)  
-  __5.2 Chercher sur quel port COM, votre ESP32 est située. Pour trouver cette information (sur windows), il faut chercher dans le gestionnaire des periphériques. Une fois trouvé, il faut le rentré dans Putty, dans la case "Sérial line"__  
-![Exemple7](https://user-images.githubusercontent.com/123626872/227482026-9fde7fd9-ad37-455f-80ec-074421725475.PNG)  
-  __5.3 Changer la vitesse à "115200" comme dans le programme. Si la vitesse n'est pas modifié, il y aura une erreur.__  
-  __5.4 Remplir la case "Saved Sessions" en donnant un nom pour la configuration qui viens d'être effectuée. Puis selectionner la case "Save" pour sauvegrader les configurations. Ce qui vous permettra d'éviter de refaire les configurations a chaque fois que vous souhaitez lancer l'ESP32.__
