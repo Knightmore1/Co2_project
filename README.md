@@ -67,6 +67,7 @@ __3) Gestion de la base de données__
 ### Installation d'un serveur de base de données sur une machine virtuelle Linux:
 
 1. Avoir un ordinateur connéctée à internet avec une machine virtuelle installée 
+Ici voici un tuto pour installer une machine virtuelle ->
 
 2. Pour installer le serveur de base de données, il faut taper la commande suivante:
 ![image](https://user-images.githubusercontent.com/123626866/234315252-6dbf193c-ca4a-4b12-8cc7-70fb505b902a.png)
