@@ -43,15 +43,17 @@ __2. Pour ouvrir le dossier [ThreadAlertV2](https://github.com/Knightmore1/Co2_p
  ![projectAndConfiguration](https://user-images.githubusercontent.com/123626872/235076372-f2a6a1f8-77ba-40ac-b003-10cc26cc9a6f.PNG)  
  __2.4 Selectionner `Add Existing`.__  
  ![addExisting](https://user-images.githubusercontent.com/123626872/235077472-f4256367-c8f0-4167-b4b3-7a4c010b95d2.PNG)  
- __2.5 Selectionner le fichier `ThreadAlertV2` à l'endroit où vous avez décompresser le fichier `ThreadAlertV2.zip` (revoir étape 2.1) puis selectionner `Open "Downloads"`.__  
- ![selectProject](https://user-images.githubusercontent.com/123626872/235078888-f49af3fd-b8e5-4cc5-bccd-7fdb57a196a4.PNG)  
+ __2.5 Selectionner le fichier `ThreadAlertV2` à l'endroit où vous avez décompresser le fichier `ThreadAlertV2.zip` (revoir étape 2.1) puis selectionner `Open "ThreadAlertV2"`.__  
+ ![openProject](https://user-images.githubusercontent.com/123626872/235081934-59a99600-e1c1-4eaa-aa72-28756ed956c5.PNG)  
 __2.6 Selectionner `Open`.__  
-![open](https://user-images.githubusercontent.com/123626872/235080355-bed49eb1-fba1-4318-8a58-af07536446b0.PNG)
+![open](https://user-images.githubusercontent.com/123626872/235080355-bed49eb1-fba1-4318-8a58-af07536446b0.PNG)  
+__2.7 Selectionner `Yes`.__  
+![trust](https://user-images.githubusercontent.com/123626872/235082383-666f3be9-a0a4-4313-9e35-a897c6bae7f8.PNG)  
 
 __3. Sélectionner "src" et selectionner le fichier "main.cpp", une fois le fichier ouvert il faut remplir l'adresse IP de la raspberry sur la ligne 7.__  
 ![Exemple3](https://user-images.githubusercontent.com/123626872/227161662-25c5f4be-b521-4076-878c-72db647508b0.PNG)  
 
-__4. Mettre le programme dans l'ESP32 Saola:__  
+__4. Mettre le programme dans la carte ESP32 Saola:__  
   __4.1 Sélectionner ![Exemple4](https://user-images.githubusercontent.com/123626872/227180263-cd8b45f5-ed71-45cf-91c0-3e2124e82e99.PNG) dans la barre d'état pour build le programme. Si il n'y a pas d'erreur à la compilation du programme, vous pouvez passer à la prochaine étapes.__  
 ![Capture10](https://user-images.githubusercontent.com/123626872/234802500-afb3f2f0-212e-4ca1-818f-197106f6f919.PNG)  
   __4.2 Sélectionner ![Exemple5](https://user-images.githubusercontent.com/123626872/227181478-e3b0f74e-22eb-443e-b00c-eab24a14f7b4.PNG) dans la barre d'état pour mettre le code compiler dans la carte ESP32.__  
