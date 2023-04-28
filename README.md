@@ -2,7 +2,7 @@
 Le broker se base sur le protocole [MQTT](https://github.com/Knightmore1/Co2_project/wiki/MQTT) :
 ![image](https://user-images.githubusercontent.com/123626866/224250600-c5e4f9b4-e828-49b7-bbdb-4b9f0522d8bb.png) 
 
-## Pourquoi mqtt ?
+### Pourquoi mqtt ?
 
 -Protocole __ouvert__, __simple__, __léger__ et __facile à mettre en œuvre__.  
 -Idéal pour la __transmission de données__ avec une __faible bande passante__.  
@@ -19,13 +19,13 @@ Le broker se base sur le protocole [MQTT](https://github.com/Knightmore1/Co2_pro
 
 
   
-## La sécurité :  
+### La sécurité :  
 Niveau transport TLS/SSL  
 Niveau authentification par cértificats SSL/TLS  
 Authentification par user/mdp  
 
 
-## QOS:  
+### QOS:  
 
 Niveau 0 : message envoyer au plus une fois  
 Niveau 1 : message envoyer au moins une fois  
@@ -38,7 +38,7 @@ Niveau 2 : message sauvegarder jusqu’à la réception par le subscriber.
 
 
 
-Configurer le broker MQTT avec mosquitto
+## Configurer le broker MQTT avec mosquitto:
 
 1. Installer le broker MQTT
 
