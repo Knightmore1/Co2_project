@@ -40,29 +40,21 @@ Niveau 2 : message sauvegarder jusqu’à la réception par le subscriber.
 
 ## Configurer le broker MQTT avec mosquitto:
 
-1. Installer le broker MQTT
-
-
+1. Installer le broker MQTT  
 ![image](https://user-images.githubusercontent.com/123626866/225907997-7da581b8-d3b5-4008-8e41-100eac11da4e.png)
 
-
-
-2. Une fois installer, vérifier si il est en cours d’exécution
- 
-				
+2. Une fois installer, vérifier si il est en cours d’exécution  
 ![image](https://user-images.githubusercontent.com/123626866/225908020-359707a3-0cbe-462c-a2c7-01218ba2aee8.png)
-
-
 
 Ceci devrait apparaître :
 ![image](https://user-images.githubusercontent.com/123626866/225908094-1de234bd-0fa4-494f-8180-566f1b312cd7.png)
 
-Cela signifie qu’il tourne bien.
+Cela signifie qu’il tourne bien.  
 
 
-3. Pour tester le broker MQTT, il faut utiliser un système subscribe/publish sur des topics, les commandes mosquitto_sub et mosquitto_publish permettent de le faire. La commande "mosquitto_sub" permet de se connecter à un broker MQTT et de s'abonner à un ou plusieurs topics pour recevoir les messages publiés sur ces topics
+3. Pour tester le broker MQTT, il faut utiliser un système subscribe/publish sur des topics, les commandes mosquitto_sub et mosquitto_publish permettent de le faire. La commande "mosquitto_sub" permet de se connecter à un broker MQTT et de s'abonner à un ou plusieurs topics pour recevoir les messages publiés sur ces topics.  
 
-. La commande "mosquitto_pub" permet quant à elle de publier des messages sur un topic spécifique via un broker MQTT.  
+La commande "mosquitto_pub" permet quant à elle de publier des messages sur un topic spécifique via un broker MQTT.  
 
 Pour utiliser ces commandes, il faut installer le client MQTT mosquitto :
 
