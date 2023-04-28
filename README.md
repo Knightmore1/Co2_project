@@ -1,6 +1,6 @@
 # Base de données du projet  
 
-# Cette partie est dédiée à la base de données ainsi que son accès, celà sera fait en plusieurs étapes :  
+## Cette partie est dédiée à la base de données ainsi que son accès, celà sera fait en plusieurs étapes :  
 
 
 * Recherche des besoins 
@@ -23,7 +23,7 @@
 
 
 
-1) Recherche des besoins  
+__1) Recherche des besoins__  
 
    Pour cette partie du projet, une machine virtuelle avec un système d'exploitation Linux Ubuntu sera nécessaire pour installer le serveur de base de données. 
    
@@ -42,7 +42,7 @@
 
 
   
-2) Structure de la base de données  
+__2) Structure de la base de données__  
    
    Pour la base de données, elle sera diviser en trois tables, une première qui contiendra les informations des différentes mesures éfectuées, une deuxième avec des données concernant les salles (Localisation dans l'etablissement, leur capacité). Enfin, une troisième table avec des information concernant les ESP32 (Numéro d'identification, version, et la salle où ils sont). 
    
@@ -57,14 +57,14 @@ Pour résumer, voici le schéma relationnel de cette base de données:
    &nbsp;
 
 
-3) Gestion de la base de données
+__3) Gestion de la base de données__
    
    
 
 
 
-
-__Installation d'un serveur de base de données sur une machine virtuelle Linux:__
+----
+### Installation d'un serveur de base de données sur une machine virtuelle Linux:
 
 1. Avoir un ordinateur connéctée à internet avec une machine virtuelle installée 
 
@@ -82,7 +82,6 @@ cette commande permet d'accéder au serveur avec comme utilisateur root. (Utilis
 
 A partir de ce moment là, on peut créer et gérer des bases de données.
 Pour connaitre la syntaxe des commandes SQL, consulter ce site https://sql.sh/
-
 
 
 
