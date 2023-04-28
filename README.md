@@ -39,6 +39,14 @@ __2. Pour ouvrir le dossier [ThreadAlertV2](https://github.com/Knightmore1/Co2_p
 ![exemple10](https://user-images.githubusercontent.com/123626872/235074676-06389a6f-fdf1-47a6-a182-659f16c8e32c.PNG)  
  __2.2 Ouvrir avec platformIO (dans visual studio code) le dossier [ThreadAlertV2](https://github.com/Knightmore1/Co2_project/tree/Mesure-CO2/affichage/ThreadAlertV2) comme projet.__  
 ![platformIOIcon](https://user-images.githubusercontent.com/48868173/234328431-71eb40f1-6621-4fce-a47e-b68e263c38d7.png)  
+ __2.3 Selectionner l'onglet `Projets & Configutation`.__  
+ ![projectAndConfiguration](https://user-images.githubusercontent.com/123626872/235076372-f2a6a1f8-77ba-40ac-b003-10cc26cc9a6f.PNG)  
+ __2.4 Selectionner `Add Existing`.__  
+ ![addExisting](https://user-images.githubusercontent.com/123626872/235077472-f4256367-c8f0-4167-b4b3-7a4c010b95d2.PNG)  
+ __2.5 Selectionner le fichier `ThreadAlertV2` à l'endroit où vous avez décompresser le fichier `ThreadAlertV2.zip` (revoir étape 2.1) puis selectionner `Open "Downloads"`.__  
+ ![selectProject](https://user-images.githubusercontent.com/123626872/235078888-f49af3fd-b8e5-4cc5-bccd-7fdb57a196a4.PNG)  
+__2.6 Selectionner `Open`.__  
+![open](https://user-images.githubusercontent.com/123626872/235080355-bed49eb1-fba1-4318-8a58-af07536446b0.PNG)
 
 __3. Sélectionner "src" et selectionner le fichier "main.cpp", une fois le fichier ouvert il faut remplir l'adresse IP de la raspberry sur la ligne 7.__  
 ![Exemple3](https://user-images.githubusercontent.com/123626872/227161662-25c5f4be-b521-4076-878c-72db647508b0.PNG)  
