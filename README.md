@@ -70,7 +70,8 @@ __3) Gestion de la base de données__
 Ici voici un tuto pour installer une machine virtuelle -> [Tuto machine virtuelle](https://github.com/Knightmore1/Co2_project/wiki/Installation-machine-virtuelle-linux)
 
 2. Pour installer le serveur de base de données, il faut taper la commande suivante:
-![image](https://user-images.githubusercontent.com/123626866/234315252-6dbf193c-ca4a-4b12-8cc7-70fb505b902a.png)
+![image](https://user-images.githubusercontent.com/123626866/235711740-9f580799-b576-4bf7-9881-6f5afdf5d30b.png)
+
 
 La commande permet d'installer le serveur de base de données nommé mariaDB.  
 SERVEUR INSTALLE!!!  
