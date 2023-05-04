@@ -4,7 +4,7 @@
 ## Présentation du projet
 
 
-> L’inhalation d’aérosols contenant des virus SARS-CoV-2 est un des trois modes de transmission de la COVID-19. Elle se produit essentiellement dans les espaces clos. Les aérosols – des gouttelettes de diamètre inférieur à 0,01 mm – peuvent rester suspendus dans l’air pendant plusieurs heures. 
+> L’inhalation d’aérosols contenant des virus SARS-CoV-2 est un des trois modes de transmission de la COVID-19. Elle se produit essentiellement dans les espaces clos. Les aérosols (des gouttelettes de diamètre inférieur à 0,01 mm) peuvent rester suspendus dans l’air pendant plusieurs heures. 
 Contrairement aux gouttelettes plus grosses, les aérosols peuvent être transportés sur des distances nettement supérieures à 2 m. 
 Plusieurs moyens sont particulièrement efficaces pour limiter l’inhalation d’aérosols : le port du masque, la diminution de la densité́ humaine et l’aération des locaux. L’aération consiste à remplacer l’air de la pièce par de l’air extérieur. 
 
