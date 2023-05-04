@@ -8,10 +8,11 @@
 Contrairement aux gouttelettes plus grosses, les aérosols peuvent être transportés sur des distances nettement supérieures à 2 m. 
 Plusieurs moyens sont particulièrement efficaces pour limiter l’inhalation d’aérosols : le port du masque, la diminution de la densité́ humaine et l’aération des locaux. L’aération consiste à remplacer l’air de la pièce par de l’air extérieur. 
 
->Selon les autorités de santé, si une salle de classe dépasse un taux de dioxyde de carbone de 800 ppm (parties par millions), cela signifie que l’air est mal renouvelé, que le virus peut donc être présent en grande quantité, et qu’il faut aérer la pièce. C’est pourquoi, avant la rentrée scolaire, le ministère de l’Éducation nationale, « a recommandé fortement » d’équiper les salles de classe avec des détecteurs de CO2. 
+> Selon les autorités de santé, si une salle de classe dépasse un taux de dioxyde de carbone de 800 ppm (parties par millions), cela signifie que l’air est mal renouvelé, que le virus peut donc être présent en grande quantité, et qu’il faut aérer la pièce. C’est pourquoi, avant la rentrée scolaire, le ministère de l’Éducation nationale, « a recommandé fortement » d’équiper les salles de classe avec des détecteurs de CO2. 
 
 ![image](https://user-images.githubusercontent.com/123626866/224345326-52176d4f-dcee-4446-b97a-508caec78b3c.png)
 > __Pour shématiser tout ça:__  
+
 ![Capture](https://user-images.githubusercontent.com/123626872/236166087-a19322f3-87a9-460f-8f74-edd6a1c08cd4.PNG)
 
 
