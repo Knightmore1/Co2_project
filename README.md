@@ -61,4 +61,4 @@ __4. Mettre le programme dans la carte ESP32 Saola:__
  __4.3 Sélectionner![exemple8](https://user-images.githubusercontent.com/123626872/234795098-a2dc5ee5-2152-4587-88e3-4ef397174368.PNG) dans la barre d'état pour éxecuter le programme et afficher le terminal de visual studio.__  
 
 __Si vous ne souhaitez pas utiliser le terminal fournis directement avec visual Studio vous pouvez vous connecter en série avec le logiciel "[Putty](https://github.com/Knightmore1/Co2_project/wiki/Putty)"__  
-__Le programme doit normalement s'éxecuter sans érreur, si des librairies manques au dossier (ce qui n'est pas sensé se produire) vous pouvez voir comment installé les [librairies](https://github.com/Knightmore1/Co2_project/wiki/Librairie).
+__Le programme doit normalement s'éxecuter sans érreur, si des librairies manques au dossier (ce qui n'est pas sensé se produire) vous pouvez voir comment installé les [librairies](https://github.com/Knightmore1/Co2_project/wiki/Librairie).__
