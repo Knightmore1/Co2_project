@@ -2,6 +2,11 @@
 Le broker se base sur le protocole [MQTT](https://github.com/Knightmore1/Co2_project/wiki/MQTT) :
 ![image](https://user-images.githubusercontent.com/123626866/224250600-c5e4f9b4-e828-49b7-bbdb-4b9f0522d8bb.png) 
 
+### MQTT c'est quoi ?
+
+
+Plus connu sous l’acronyme MQTT, le protocole Message Queuing Telemetry Transport est un protocole de messagerie léger adapté aux situations où les clients doivent utiliser peu de code et sont connectés à des réseaux peu fiables ou limités en bande passante. Il est principalement utilisé dans la communication entre machines (M2M) ou sur les types de connexions propres à l’Internet des Objets.
+
 ### Pourquoi mqtt ?
 
 -Protocole __ouvert__, __simple__, __léger__ et __facile à mettre en œuvre__.  
