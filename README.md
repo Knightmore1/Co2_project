@@ -17,7 +17,7 @@
 
 * Effectuer les test nécessaires
     * Tests de connexion
-    * Remplissage automatique  
+   
 
 
 
