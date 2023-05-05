@@ -1,4 +1,7 @@
 # Supervision, Visu-Courbes, Import EdT
+
+## Cette partie est dedié à la partie IHM du projet  
+
 ### 1-Besoins du client:  
 
   Supervision des données  
