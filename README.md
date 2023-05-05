@@ -2,6 +2,8 @@
 
 ## Cette partie est dedié à la partie IHM du projet  
 
+Pour la partie IHM j'ai utilisé Qt Creator 
+
 ### 1-Besoins du client:  
 
   Supervision des données  
