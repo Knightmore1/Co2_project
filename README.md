@@ -2,7 +2,8 @@
 
 ## Cette partie est dedié à la partie IHM du projet  
 
-Pour la partie IHM j'ai utilisé Qt Creator 
+### Matériel:  
+La partie IHM a été crée via Qt Creator 
 
 ### 1-Besoins du client:  
 
