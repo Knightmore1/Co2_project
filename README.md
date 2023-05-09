@@ -20,7 +20,6 @@ La partie IHM a été crée via Qt Creator
   
 
 
-### 3-Maquette IHM:
 
 
 
