@@ -27,3 +27,5 @@ __- Capteur CO2:__
 __- Capteur d'humidité:__  
 __- Capteur de température:__  
 __- RaspberryPi:__  
+
+## Coût:
