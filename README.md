@@ -19,3 +19,11 @@ Plusieurs moyens sont particulièrement efficaces pour limiter l’inhalation d�
 ## Mise en place du système:
 
 __Le [broker](https://github.com/Knightmore1/Co2_project/blob/MQTT/README.md) est un élément essentiel de l'architecture du projet. Il permet la mise en tampon des données fournies par les différents capteurs des salles. La [base de données](https://github.com/Knightmore1/Co2_project/blob/Broker/Acc%C3%A8s-BDD/README.md) permet de stocker les différentes mesures des différents capteurs, ainsi ces dernières seront récuperées pour en faire de la visualisation de courbes via [IHM](https://github.com/Knightmore1/Co2_project/blob/Supervision/Visu-Courbes/Import-EdT/README.md). Les cartes électroniques [ESP32](https://github.com/Knightmore1/Co2_project/blob/Mesure-CO2/affichage/README.md) installés dans chaque salle permet de récupéré les données des capteurs. Ces données sont envoyé en [trasmition sans fil](https://github.com/Knightmore1/Co2_project/blob/WiFi/README.md).__  
+
+## Matériel:
+
+__- ESP32-S2-Saola: carte de développement de petite taille produite par Espressif. La plupart des broches d'E/S sont réparties sur les en-têtes de broches des deux côtés pour faciliter l'interfaçage. Les développeurs peuvent soit connecter des périphériques avec des fils de connexion, soit monter ESP32-S2-Saola-1 sur une planche à pain.__  
+__- Capteur CO2:__  
+__- Capteur d'humidité:__  
+__- Capteur de température:__  
+__- RaspberryPi:__  
