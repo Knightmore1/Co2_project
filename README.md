@@ -9,3 +9,6 @@ __- Le dossier WifiV2 permet en plus de se connecter au broker [MQTT](https://gi
 __- Le dossier WifiV3 permet en plus d'envoyer une donnée sur le topic "Humidity".__  
 
 __Le derniere version (`wifi_V3`) à été mergé avec le code `TheardAlert` pour s'appeler [`TheardAlertV2`](https://github.com/Knightmore1/Co2_project/tree/Mesure-CO2/affichage/ThreadAlertV2). Il peut envoyé les données des capteurs vers le broker MQTT sous différents [topics](https://github.com/Knightmore1/Co2_project/wiki/MQTT).__  
+
+__Voici le diagramme de flux du dossier `wifiV3`:__  
+![image](https://github.com/Knightmore1/Co2_project/assets/123626872/e2b6243d-f0b9-43c9-8ccd-0be75592e98e)
