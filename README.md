@@ -24,6 +24,7 @@ La partie IHM a été crée via Qt Creator
 
 
 
+![image](https://github.com/Knightmore1/Co2_project/assets/123626891/232c5ba7-f4d7-4f9e-b02c-163bd3b87186)
 
 
 
