@@ -14,7 +14,7 @@ Plus connu sous l’acronyme MQTT, le protocole Message Queuing Telemetry Transp
 -__Adapté au sans fil__.  
 -__Faible consommation électrique__.  
 -__Très rapide__.  
--__Faible en ressource processeur__ et __faible emprunte mémoire__.  
+-__Faible en ressource processeur__ et __faible empreinte mémoire__.  
 -__93x plus rapide en débit__ que le protocole HTTP.  
 -__12x moins gourmand à l’envoi__ que l’HTTP.  
 -__170x moins gourmand à la réception__ que l’HTTP.  
@@ -26,7 +26,7 @@ Plus connu sous l’acronyme MQTT, le protocole Message Queuing Telemetry Transp
   
 ### La sécurité :  
 Niveau transport TLS/SSL  
-Niveau authentification par cértificats SSL/TLS  
+Niveau authentification par certificats SSL/TLS  
 Authentification par user/mdp  
 
 
