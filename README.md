@@ -28,5 +28,19 @@ La partie IHM a été crée via Qt Creator
 
 
 
+CO2
+![image](https://github.com/Knightmore1/Co2_project/assets/123626891/1364c9d5-5250-4a45-bdef-13a2120f9b56)
+
+
+
+
+température
+![image](https://github.com/Knightmore1/Co2_project/assets/123626891/79f0510b-a2f3-4871-97ee-d6b380622e38)
+
+
+
+
+Humidité
+![image](https://github.com/Knightmore1/Co2_project/assets/123626891/94fe8e7c-43c1-42dd-98dc-0d2ec064b93e)
 
 
