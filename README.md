@@ -19,6 +19,7 @@ La partie IHM a été crée via Qt Creator
   Visualisation des données reçu par la Base de Données  
   
 
+  ![image](https://github.com/Knightmore1/Co2_project/assets/123626891/e44561e2-2118-4c15-affc-2447a918077a)
 
 
 
