@@ -63,28 +63,6 @@ __3) Gestion de la base de données__
 
 
 
-----
-### Installation d'un serveur de base de données sur une machine virtuelle Linux:
-
-1. Avoir un ordinateur connéctée à internet avec une machine virtuelle installée 
-Ici voici un tuto pour installer une machine virtuelle -> [Tuto machine virtuelle](https://github.com/Knightmore1/Co2_project/wiki/Installation-machine-virtuelle-linux)
-
-2. Pour installer le serveur de base de données, il faut taper la commande suivante:
-![image](https://user-images.githubusercontent.com/123626866/235711740-9f580799-b576-4bf7-9881-6f5afdf5d30b.png)
-
-
-La commande permet d'installer le serveur de base de données nommé mariaDB.  
-SERVEUR INSTALLE!!!  
-
-Pour s'y connecter, il faut utiliser la commande :
-
-![image](https://user-images.githubusercontent.com/123626866/226945101-da09fa9b-feea-4578-8153-7069b8830ccf.png)
-
-cette commande permet d'accéder au serveur avec comme utilisateur root. (Utilisateur par défaut du serveur)
-
-A partir de ce moment là, on peut créer et gérer des bases de données.
-Pour connaitre la syntaxe des commandes SQL, consulter ce site https://sql.sh/
-
 
 
 
