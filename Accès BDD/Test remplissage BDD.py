@@ -2,10 +2,10 @@ import mysql.connector
 
 
 # Paramètres de connexion à la base de données
-db_host = "172.20.233.40"
-db_user = "phpmyadmin"
-db_password = "phpmyadmin"
-db_name = "Base_Projet"
+db_host = "172.20.233.66"
+db_user = "root"
+db_password = "root"
+db_name = "co2"
 
 
 
@@ -17,7 +17,7 @@ while 1 == 1:
     cursor = cnx.cursor()
 
     # Exécution d'une requête d'insertion
-    insert_query = "INSERT INTO table (colonne1, colonne2) VALUES (%s, %s)"
+    insert_query = "INSERT INTO table (CO2) VALUES (%s)"
     values = (message.topic, message.payload.decode())
     cursor.execute(insert_query, values)
     cnx.commit()
