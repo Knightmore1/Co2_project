@@ -1,7 +1,7 @@
 import mysql.connector
 
 # Paramètres de connexion à la base de données
-host = "172.20.233.40"
+host = "172.20.233.66"
 user = "phpmyadmin"
 password = "phpmyadmin"
 database = "Base_Projet"
